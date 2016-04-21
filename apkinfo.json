@@ -18,8 +18,15 @@
             "packageName": "com.lausny.archievpnfree.go",
             "updateEnable": true,
             "forceUpdate": false,
-            "versionCode": 123,
+            "versionCode": 122,
             "updateUrl": "https://raw.githubusercontent.com/arcbccasia/ups/master/archie-122.apk"
-        }	
+        },
+	{
+            "packageName": "com.lausny.ocvpnaio.allpay.archie",
+            "updateEnable": true,
+            "forceUpdate": false,
+            "versionCode": 101,
+            "updateUrl": "https://raw.githubusercontent.com/arcbccasia/ups/master/gp-allpay-101.apk"
+        }
     ]
 }

@@ -27,6 +27,27 @@
             "forceUpdate": false,
             "versionCode": 101,
             "updateUrl": "https://raw.githubusercontent.com/arcbccasia/ups/master/gp-allpay-101.apk"
+        },
+	{
+            "packageName": "com.lausny.ocvpnaiofree2015",
+            "updateEnable": true,
+            "forceUpdate": false,
+            "versionCode": 122,
+            "updateUrl": "https://raw.githubusercontent.com/arcbccasia/ups/master/2015-122.apk"
+        },
+	{
+            "packageName": "com.lausny.ocvpnaiofree360",
+            "updateEnable": true,
+            "forceUpdate": false,
+            "versionCode": 122,
+            "updateUrl": "https://raw.githubusercontent.com/arcbccasia/ups/master/360-122.apk"
+        },
+	{
+            "packageName": "com.lausny.anjifree.gp",
+            "updateEnable": true,
+            "forceUpdate": false,
+            "versionCode": 122,
+            "updateUrl": "https://raw.githubusercontent.com/arcbccasia/ups/master/anji-qq-122.apk"
         }
     ]
 }
